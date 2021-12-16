@@ -61,23 +61,15 @@ export default {
       }
       &.dot-pattern {
         width: 100px;
-        left: -2%;
+        left: -0%;
         top: -20%;
       }
       &.ellipse {
         width: 170px;
-        right: -10%;
+        right: 0%;
         bottom: -25%;
       }
     }
   }
 }
-
-// @include mobile-sm {
-//   .fig img {
-//     &.ellipse {
-//       width: 280px;
-//     }
-//   }
-// }
 </style>
