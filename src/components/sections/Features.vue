@@ -146,6 +146,20 @@ export default {
     .btn.main-btn {
       margin-bottom: 2.5rem;
     }
+    .fig {
+      img {
+        &.main-img {
+          width: 90%;
+        }
+        &.ellipse {
+          right: 0%;
+          top: 60%;
+        }
+        &.dot-pattern {
+          left: 0%;
+        }
+      }
+    }
   }
 }
 </style>
