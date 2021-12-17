@@ -1,5 +1,6 @@
 <template>
-  <div class="hero">
+  <section class="hero">
+  <div class="container">
     <header class="hero__header text-center">
       <h2 class="purble-text">طور متجرك ووسع افاق تجارتك مع سوق تطبيقات زد</h2>
       <p>
@@ -18,7 +19,8 @@
         />
       </Fig>
     </section>
-  </div>
+    </div>
+  </section>
 </template>
 
 <script>
